@@ -1,3 +1,3 @@
 # conference-booking
 
-Simple conference bookign application with command line interface
+Simple conference booking application with command line interface
